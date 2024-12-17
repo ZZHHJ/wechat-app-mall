@@ -7,5 +7,5 @@ module.exports = {
   bindSeller: false, // true 开启三级分销抢客； false 为不开启
   customerServiceType: 'QW', // 客服类型，QW为企业微信，需要在后台系统参数配置企业ID和客服URL，XCX 为小程序的默认客服
   openIdAutoRegister: true, // 用户打开小程序的时候自动注册新用户【用户不存在的时候】
-  needBindMobile: true, // 是否要求绑定手机号
+  needBindMobile: true, // 是否要求绑定手机号 测试提交代码github
 }
